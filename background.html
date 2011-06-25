@@ -1,0 +1,14 @@
+<html>
+<head>
+<script>
+    // Called when the user clicks on the browser action.
+    chrome.browserAction.onClicked.addListener(function(tab) {
+        chrome.tabs.executeScript(null, {allFrames: true, file: "js/jquery-1.6.1.min.js"}, function() {
+            chrome.tabs.executeScript(null, {allFrames: true, file: "js/jquery.ba-replacetext.min.js"}, function() {
+                chrome.tabs.executeScript(null, {allFrames: true, file:"js/slash.js"});
+            });
+        });
+    });
+</script>
+</head>
+</html>
