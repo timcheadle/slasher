@@ -1,3 +1,7 @@
+# SLASHER
+
+![Slash](https://github.com/timcheadle/slasher/raw/master/slash.png)
+
 Chrome extension to turn all forward slashes into images of Slash.
 
 Inspired by insane conversation at ConvergeSE 2011.
