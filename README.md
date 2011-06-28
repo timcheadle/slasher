@@ -8,7 +8,7 @@ Inspired by insane conversation at ConvergeSE 2011.
 
 ## To Install:
 
-### (Google App Store)[https://chrome.google.com/webstore/detail/bhpcnihbacomhndahegadjmgmfifclba]
+### [Google App Store](https://chrome.google.com/webstore/detail/bhpcnihbacomhndahegadjmgmfifclba)
 
 ## To Install from Github:
 
