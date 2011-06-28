@@ -1,1 +1,1 @@
-$('body *').replaceText(/\//g, '<img src="chrome-extension://ojeecjoomjfldgenbpmnmgbopckpcdnc/slash.png" width="40" height="51"/>');
+$('body *').replaceText(/\//g, '<img src="chrome-extension://bhpcnihbacomhndahegadjmgmfifclba/slash.png" width="40" height="51"/>');
